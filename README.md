@@ -12,7 +12,7 @@ Dedique-se ao teste com capricho, caso você não seja selecionado mas tenha um 
 
 - Organização do projeto, pastas e arquivos.
 
-- Legibilidade do código: (Identação, nomes de variáveis e funções claras e objetivas).
+- Legibilidade do código: (Indentação, nomes de variáveis e funções claras e objetivas).
 
 - Raciocínio simples para resolver os problemas: (Não se perder na implementação e criar 200 linhas que poderiam ser 10).
 
