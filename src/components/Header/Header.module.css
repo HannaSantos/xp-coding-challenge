@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 8px;
+  margin: 29px;
+  background-color: #1E1ADD;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  color: #ffffff;
+  flex-wrap: wrap;
+}
+
+.left {
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.left h1 {
+    margin: 0px 46px;
+    font-size: 2rem;
+}
+
+.menu a {
+  margin-right: 16px;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.right {
+  margin: 0px 46px;
+  display: flex;
+  align-items: center;
+}

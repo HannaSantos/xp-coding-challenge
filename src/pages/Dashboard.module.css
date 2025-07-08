@@ -1,0 +1,8 @@
+.aling {
+    margin: 29px;
+    padding: 16px 8px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
